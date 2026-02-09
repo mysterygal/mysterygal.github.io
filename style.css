@@ -11,7 +11,7 @@ body {
 
 .navbar {
   position: fixed;
-  width: 100%;
+  width: 90%;
   top: 0;
   background: white;
   display: flex;
